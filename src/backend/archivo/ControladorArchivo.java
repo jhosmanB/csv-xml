@@ -1,5 +1,5 @@
 package backend.archivo;
-
+/* */
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -20,7 +20,11 @@ public class ControladorArchivo {
         List<String> res = new ArrayList<String>();
         BufferedReader lectorCsv = null;
         try {
+            
             lectorCsv = new BufferedReader(new FileReader(PATH, StandardCharsets.UTF_8));
+            lectorCsv.readLine();
+            lectorCsv.readLine();
+            lectorCsv.readLine();
             String linea = lectorCsv.readLine(); 
             while (linea != null && !linea.equalsIgnoreCase("")) {
                 res.add(linea);

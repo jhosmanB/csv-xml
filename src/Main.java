@@ -12,21 +12,20 @@ public class Main {
      String ip = sc.nextLine();
      System.out.println("Ingrese la contrasena de las extensiones");
      String contra = sc.nextLine();
-        final String PATH_CSV  = "Phone_htms Resumen(delimitado con comas).csv";
+        final String PATH_CSV  = "phone.csv";
         ControladorArchivo archivo = new ControladorArchivo(PATH_CSV);
         List<String> contenido = archivo.obtenerArchivo();
         System.out.println(contenido.size());
         for (int i = 0; i < contenido.size(); i++) {
             String res = contenido.get(i);
-            String[] parts = res.split("\\,");
-            
-  
-       String nombreArchivo = parts[0];
-            String name = parts[7];
-            String modelo = parts[1];
-            String extension = parts[4];
+            String[] parts = res.split(",",-1);
+       String nombreArchivo = parts[1];
+            String name = parts[2];
+            String modelo = parts[41];
+            String extension = parts[140];
             String modeloXml;
             int  tipo;
+            
             if (modelo.equalsIgnoreCase("Cisco 3905")) {
                 modeloXml = "modelosXML\\CP-3905\\SEPF07816A2C103.cnf.xml_22205";
                 tipo = 1;

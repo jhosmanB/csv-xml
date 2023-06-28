@@ -63,20 +63,26 @@ public class XMLModification {
                     processNodeNameElement.setTextContent(this.ip);
                 }
             }
-            
-            NodeList lineList = doc.getElementsByTagName("line");
-            if (lineList.getLength() > 0) {
-                Node lineNode = lineList.item(0);
-                if (lineNode.getNodeType() == Node.ELEMENT_NODE) {
-                    Element lineElement = (Element) lineNode;
-                    NodeList phoneLabelList = lineElement.getElementsByTagName("phoneLabel");
+            NodeList pcPortList = doc.getElementsByTagName("pcPort");
+            if (pcPortList.getLength() > 0) {
+                Node processNodeNameNode = pcPortList.item(0);
+                if (processNodeNameNode.getNodeType() == Node.ELEMENT_NODE) {
+                    Element processNodeNameElement = (Element) processNodeNameNode;
+                    processNodeNameElement.setTextContent("0");
+                }
+            }
+            NodeList phoneLabelList = doc.getElementsByTagName("phoneLabel");
                     if (phoneLabelList.getLength() > 0) {
                         Node featureLabelNode = phoneLabelList.item(0);
                         if (featureLabelNode.getNodeType() == Node.ELEMENT_NODE) {
                             Element featureLabelElement = (Element) featureLabelNode;
-                            featureLabelElement.setTextContent(this.extension);
+                            featureLabelElement.setTextContent(this.name);
                         }
                     }
+            NodeList lineList = doc.getElementsByTagName("line");
+            if (lineList.getLength() > 0) {
+                Node lineNode = lineList.item(0);
+                if (lineNode.getNodeType() == Node.ELEMENT_NODE) {
                     NodeList sipLinesList = doc.getElementsByTagName("sipLines");
                     if (sipLinesList.getLength() > 0) {
                         Node sipLinesNode = sipLinesList.item(0);
@@ -87,7 +93,7 @@ public class XMLModification {
                                 Node nameNode = fetuareLabelList.item(0);
                                 if (nameNode.getNodeType() == Node.ELEMENT_NODE) {
                                     Element nameElement = (Element) nameNode;
-                                    nameElement.setTextContent(this.extension);
+                                    nameElement.setTextContent(this.name);
                                 }
                             }
                             NodeList proxyList = sipLinesElement.getElementsByTagName("proxy");
@@ -169,12 +175,15 @@ public class XMLModification {
                     processNodeNameElement.setTextContent(this.ip);
                 }
             }
-            NodeList lineList = doc.getElementsByTagName("line");
-            if (lineList.getLength() > 0) {
-                Node lineNode = lineList.item(0);
-                if (lineNode.getNodeType() == Node.ELEMENT_NODE) {
-                    Element lineElement = (Element) lineNode;
-                    NodeList phoneLabelList = lineElement.getElementsByTagName("phoneLabel");
+            NodeList pcPortList = doc.getElementsByTagName("pcPort");
+            if (pcPortList.getLength() > 0) {
+                Node processNodeNameNode = pcPortList.item(0);
+                if (processNodeNameNode.getNodeType() == Node.ELEMENT_NODE) {
+                    Element processNodeNameElement = (Element) processNodeNameNode;
+                    processNodeNameElement.setTextContent("0");
+                }
+            }
+             NodeList phoneLabelList = doc.getElementsByTagName("phoneLabel");
                     if (phoneLabelList.getLength() > 0) {
                         Node featureLabelNode = phoneLabelList.item(0);
                         if (featureLabelNode.getNodeType() == Node.ELEMENT_NODE) {
@@ -182,6 +191,10 @@ public class XMLModification {
                             featureLabelElement.setTextContent(this.extension);
                         }
                     }
+            NodeList lineList = doc.getElementsByTagName("line");
+            if (lineList.getLength() > 0) {
+                Node lineNode = lineList.item(0);
+                if (lineNode.getNodeType() == Node.ELEMENT_NODE) {  
                     NodeList sipLinesList = doc.getElementsByTagName("sipLines");
                     if (sipLinesList.getLength() > 0) {
                         Node sipLinesNode = sipLinesList.item(0);
@@ -192,7 +205,7 @@ public class XMLModification {
                                 Node nameNode = fetuareLabelList.item(0);
                                 if (nameNode.getNodeType() == Node.ELEMENT_NODE) {
                                     Element nameElement = (Element) nameNode;
-                                    nameElement.setTextContent(this.extension);
+                                    nameElement.setTextContent(this.name);
                                 }
                             }
                             NodeList nameList = sipLinesElement.getElementsByTagName("name");

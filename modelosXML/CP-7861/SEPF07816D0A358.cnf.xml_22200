@@ -131,7 +131,7 @@
    <vendorConfig> 
       <disableSpeaker>false</disableSpeaker> 
       <disableSpeakerAndHeadset>false</disableSpeakerAndHeadset> 
-      <pcPort>1</pcPort> 
+      <pcPort>0</pcPort> 
       <settingsAccess>1</settingsAccess> 
       <garp>0</garp> 
       <voiceVlanAccess>0</voiceVlanAccess> 
