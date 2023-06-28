@@ -1,0 +1,272 @@
+MAC Telf,Marca Modelo Telf,Modelo Telf,Permiso Usuario,N Interno,Facultad,NombreArea,Nombre,Area
+Sample Device Template with TAG usage examples,Universal Device Template,,,,DP_FCyT,#FirstName# #LastName# (#Product# #Protocol#),#FirstName# #LastName# (#Product# #Protocol#),#FirstName# #LastName# (#Product# #Protocol#)
+Auto-registration Template,Universal Device Template,,,,DP_FCyT,#FirstName# #LastName# (#Product# #Protocol#),#FirstName# #LastName# (#Product# #Protocol#),#FirstName# #LastName# (#Product# #Protocol#)
+SEPF07816A2C0F4,Cisco 3905,3905,CSS_LOCALES_4231765,36522,DP_FCyT,Silvia Castellon Terrazas - Biologia,Silvia Castellon Terrazas ,Biologia
+SEPBCC493A41EE5,Cisco 3905,3905,CSS_CEL_NAL_4231765,36407,DP_FCyT,Cursos Extraordinarios,Cursos Extraordinarios,Cursos Extraordinarios
+SEPF07816A2FBC5,Cisco 3905,3905,CSS_LOCALES_4231765,36521,DP_FCyT,Edgar Goitia,Edgar Goitia,Edgar Goitia
+SEPF07816A2FC3B,Cisco 3905,3905,CSS_LOCALES_4231765,36324,DP_FCyT,Gabriela Bottani Claros - Biologia Molecular,Gabriela Bottani Claros ,Biologia Molecular
+SEPF07816A2FC59,Cisco 3905,3905,CSS_LOCALES_4231765,36481,DP_FCyT,Dany Rejas,Dany Rejas,Dany Rejas
+SEPF07816A2FAF8,Cisco 3905,3905,CSS_LOCALES_4231765,36538,DP_FCyT,Godofredo Camacho - Biologia,Godofredo Camacho ,Biologia
+SEPF07816A33240,Cisco 3905,3905,CSS_LOCALES_4231765,36479,DP_FCyT,Mirtha Rivero,Mirtha Rivero,Mirtha Rivero
+SEPF07816A2BC5B,Cisco 3905,3905,CSS_LOCALES_4231765,36480,DP_FCyT,Mabel Maldonado,Mabel Maldonado,Mabel Maldonado
+SEPF07816A2BF59,Cisco 3905,3905,CSS_LOCALES_4231765,36539,DP_FCyT,Janeth Daga Quisbert - MicroBiologia,Janeth Daga Quisbert ,MicroBiologia
+SEPF07816A333FE,Cisco 3905,3905,CSS_LOCALES_4231765,36316,DP_FCyT,Lila Calvimontes Antezana,Lila Calvimontes Antezana,Lila Calvimontes Antezana
+SEPF07816A2F893,Cisco 3905,3905,CSS_LOCALES_4231765,36451,DP_FCyT,Sarvia Ledezma Perez - Lab. Pavimentos,Sarvia Ledezma Perez ,Lab. Pavimentos
+SEPF07816A2F9E5,Cisco 3905,3905,CSS_LOCALES_4231765,36609,DP_FCyT,Omar Antezana,Omar Antezana,Omar Antezana
+SEPF07816A2BC55,Cisco 3905,3905,CSS_LOCALES_4231765,36406,DP_FCyT,Laboratorio de Metodos - Industrial,Laboratorio de Metodos ,Industrial
+SEPF07816A2BC6F,Cisco 3905,3905,CSS_LOCALES_4231765,36544,DP_FCyT,Alejandra Cecilia Vargas Zapata,Alejandra Cecilia Vargas Zapata,Alejandra Cecilia Vargas Zapata
+SEPF07816A37FB4,Cisco 3905,3905,CSS_LOCALES_4231765,36422,DP_FCyT,Porteria Edifcio Academico,Porteria Edifcio Academico,Porteria Edifcio Academico
+SEPF07816A2BE5E,Cisco 3905,3905,CSS_LOCALES_4231765,36565,DP_FCyT,Helder Fernandez - Informatica,Helder Fernandez ,Informatica
+SEPF07816A334BC,Cisco 3905,3905,CSS_LOCALES_4231765,36566,DP_FCyT,Laboratorio Entomologia,Laboratorio Entomologia,Laboratorio Entomologia
+SEPF07816A334F4,Cisco 3905,3905,CSS_LOCALES_4231765,36567,DP_FCyT,Centro de Biotecnologia,Centro de Biotecnologia,Centro de Biotecnologia
+SEPF07816A2FBD8,Cisco 3905,3905,CSS_LOCALES_4231765,36568,DP_FCyT,Marcela Melendres - Alimentos,Marcela Melendres ,Alimentos
+SEPF07816A2FDDD,Cisco 3905,3905,CSS_LOCALES_4231765,36569,DP_FCyT,Juan Carlos Flores Rojas - Inventarios,Juan Carlos Flores Rojas ,Inventarios
+SEPF07816A2FAA4,Cisco 3905,3905,CSS_LOCALES_4231765,36507,DP_FCyT,Jose Luis Perez,Jose Luis Perez,Jose Luis Perez
+SEPF07816A32E2C,Cisco 3905,3905,CSS_LOCALES_4231765,36423,DP_FCyT,Franz Mejia Apaza - Biblioteca,Franz Mejia Apaza ,Biblioteca
+SEPF07816A2FB29,Cisco 3905,3905,CSS_LOCALES_4231765,36510,DP_FCyT,Roberto Pacheco Garcia - Jefe de Departamento,Roberto Pacheco Garcia ,Jefe de Departamento
+SEPF07816A2FB97,Cisco 3905,3905,CSS_LOCALES_4231765,36508,DP_FCyT,Edgar Montero,Edgar Montero,Edgar Montero
+SEPF07816A2FEFC,Cisco 3905,3905,CSS_LOCALES_4231765,36616,DP_FCyT,Edwin Patzi - Porteria Biologia,Edwin Patzi ,Porteria Biologia
+SEPBCC49397F4FB,Cisco 7821,7821,CSS_LOCALES_4231765,36486,DP_FCyT,Wilhelm Eduardo Lange Gonzales - Jefe de Mecanica,Wilhelm Eduardo Lange Gonzales ,Jefe de Mecanica
+SEPF07816A332B5,Cisco 3905,3905,CSS_LOCALES_4231765,36519,DP_FCyT,Edwin Escalera Mejia,Edwin Escalera Mejia,Edwin Escalera Mejia
+SEPF07816A33405,Cisco 3905,3905,CSS_CEL_NAL_4231765,36309,DP_FCyT,Rosario Crespo,Rosario Crespo,Rosario Crespo
+SEPF07816A2BBC8,Cisco 3905,3905,CSS_LOCALES_4231765,36493,DP_FCyT,Lab. Computo Física,Lab. Computo Física,Lab. Computo Física
+SEPF07816A38682,Cisco 3905,3905,CSS_LOCALES_4231765,36489,DP_FCyT,Fredy Flores,Fredy Flores,Fredy Flores
+SEPF07816A38567,Cisco 3905,3905,CSS_LOCALES_4231765,36491,DP_FCyT,Marco Andrade,Marco Andrade,Marco Andrade
+SEPF07816A385A5,Cisco 3905,3905,CSS_LOCALES_4231765,36492,DP_FCyT,Rocio Guzman,Rocio Guzman,Rocio Guzman
+SEPF07816A2FB65,Cisco 3905,3905,,,DP_FCyT,Leticia Aguilar - Dirección Académica,Leticia Aguilar ,Dirección Académica
+SEPBCC49397F54F,Cisco 7821,7821,CSS_LOCALES_4231765,36574,DP_FCyT,Rimer Mauricio Zurita Orellana-DirectorMatematicas,Rimer Mauricio Zurita Orellana,DirectorMatematicas
+SEPF07816A33409,Cisco 3905,3905,CSS_LOCALES_4231765,36571,DP_FCyT,Fisica - Laboratorio - Oscar Cuellar 01,Fisica - Laboratorio ,Oscar Cuellar 01
+SEPF07816A33435,Cisco 3905,3905,CSS_LOCALES_4231765,36572,DP_FCyT,Fisica - Laboratorio - Oscar Cuellar 02,Fisica - Laboratorio ,Oscar Cuellar 02
+SEPF07816A2FDA1,Cisco 3905,3905,CSS_LOCALES_4231765,36573,DP_FCyT,IICYT - Nancy Tapias Pozo,IICYT ,Nancy Tapias Pozo
+SEPF07816A338AB,Cisco 3905,3905,CSS_LOCALES_4231765,36558,DP_FCyT,Michael Vasquez,Michael Vasquez,Michael Vasquez
+SEPF07816D02A57,Cisco 7821,7821,CSS_LOCALES_4231765,36575,DP_FCyT,Gerardo Guzman Alanes - Director Electrica,Gerardo Guzman Alanes ,Director Electrica
+SEPF07816A330EB,Cisco 3905,3905,CSS_LOCALES_4231765,36529,DP_FCyT,Labo Computo INF-SIS,Labo Computo INF,SIS
+SEPF07816A32EF4,Cisco 3905,3905,CSS_LOCALES_4231765,36462,DP_FCyT,Roberto Tipuni Ortiz,Roberto Tipuni Ortiz,Roberto Tipuni Ortiz
+SEPF07816A3380D,Cisco 3905,3905,CSS_LOCALES_4231765,36469,DP_FCyT,Laboratorio de Computo - ELEKTRO,Laboratorio de Computo ,ELEKTRO
+SEPF07816A386BE,Cisco 3905,3905,CSS_LOCALES_4231765,36518,DP_FCyT,Rossemary Teran Pacheco,Rossemary Teran Pacheco,Rossemary Teran Pacheco
+SEPBCC49397F4EC,Cisco 7821,7821,CSS_LOCALES_4231765,36310,DP_FCyT,Secretaria Matemáticas,Secretaria Matemáticas,Secretaria Matemáticas
+SEPF07816A332B9,Cisco 3905,3905,CSS_LOCALES_4231765,36603,DP_FCyT,Vidal Matias Marca,Vidal Matias Marca,Vidal Matias Marca
+SEPBCC49397F9CF,Cisco 7821,7821,CSS_LOCALES_4231765,36563,DP_FCyT,Jefe Departamento Matemáticas,Jefe Departamento Matemáticas,Jefe Departamento Matemáticas
+SEPF07816A2163A,Cisco 3905,3905,CSS_LOCALES_4231765,36548,DP_FCyT,Responsable CIDI,Responsable CIDI,Responsable CIDI
+SEPF07816A2FA96,Cisco 3905,3905,CSS_LOCALES_4231765,36444,DP_FCyT,Rocio Rosario Morales Vargas - Alimentos,Rocio Rosario Morales Vargas ,Alimentos
+SEPF07816A2FD51,Cisco 3905,3905,CSS_LOCALES_4231765,36534,DP_FCyT,Laboratorio Fisica III - Oscar Cuellar Olivera,Laboratorio Fisica III ,Oscar Cuellar Olivera
+SEPF07816A2BCB1,Cisco 3905,3905,CSS_LOCALES_4231765,36494,DP_FCyT,Felix Ugarte Sejas,Felix Ugarte Sejas,Felix Ugarte Sejas
+SEPF07816A2BC4F,Cisco 3905,3905,CSS_LOCALES_4231765,36495,DP_FCyT,Rubén Garcia,Rubén Garcia,Rubén Garcia
+SEPF07816A33404,Cisco 3905,3905,CSS_LOCALES_4231765,36570,DP_FCyT,Fisica - Lab Microscopia - Felix Ugarte,Fisica - Lab Microscopia ,Felix Ugarte
+SEPF07816A33453,Cisco 3905,3905,CSS_LOCALES_4231765,36473,DP_FCyT,Prima Luz Colque Copa - Alimentos,Prima Luz Colque Copa ,Alimentos
+SEPF07816A32F03,Cisco 3905,3905,CSS_LOCALES_4231765,36576,DP_FCyT,Carlos Gruel Davalos - Inventarios Phone,Carlos Gruel Davalos ,Inventarios Phone
+SEPF07816A2BCBE,Cisco 3905,3905,CSS_LOCALES_4231765,36577,DP_FCyT,CITEMA - Phone,CITEMA ,Phone
+SEPF07816A32DFA,Cisco 3905,3905,CSS_LOCALES_4231765,36578,DP_FCyT,CITEMA - Wilson Aguilar,CITEMA ,Wilson Aguilar
+SEPF07816A2FD67,Cisco 3905,3905,CSS_LOCALES_4231765,36525,DP_FCyT,Giovana Cuevas Ortuño,Giovana Cuevas Ortuño,Giovana Cuevas Ortuño
+SEPF07816A2BCC4,Cisco 3905,3905,CSS_LOCALES_4231765,36527,DP_FCyT,Lab Mantenimiento INF,Lab Mantenimiento INF,Lab Mantenimiento INF
+SEPF07816A3862B,Cisco 3905,3905,CSS_LOCALES_4231765,36490,DP_FCyT,Juanito Nogales Coca - CEIA,Juanito Nogales Coca ,CEIA
+SEPF07816A2BCAB,Cisco 3905,3905,CSS_LOCALES_4231765,36530,DP_FCyT,Lab. Desarrollo INF SIS,Lab. Desarrollo INF SIS,Lab. Desarrollo INF SIS
+SEPBCC49397F67D,Cisco 7821,7821,CSS_LOCALES_4231765,36349,DP_FCyT,Director Informatica - Lic Boris Calancha,Director Informatica ,Lic Boris Calancha
+SEPBCC49397F67F,Cisco 7821,7821,CSS_LOCALES_4231765,36348,DP_FCyT,Sec. Inf Sis - Alina L. Cortez Mitma,Sec. Inf Sis ,Alina L. Cortez Mitma
+SEPBCC49397F68F,Cisco 7821,7821,CSS_LOCALES_4231765,36531,DP_FCyT,Lic. Hernan Ustariz Vargas,Lic. Hernan Ustariz Vargas,Lic. Hernan Ustariz Vargas
+SEPF07816A332A1,Cisco 3905,3905,CSS_LOCALES_4231765,36564,DP_FCyT,Jimmy Villarroel Novillo,Jimmy Villarroel Novillo,Jimmy Villarroel Novillo
+SEPF07816A38635,Cisco 3905,3905,CSS_LOCALES_4231765,36584,DP_FCyT,Juan Carlos Terrazas - Astronomia,Juan Carlos Terrazas ,Astronomia
+SEPF07816A2BBB2,Cisco 3905,3905,CSS_LOCALES_4231765,36555,DP_FCyT,Rosario Montano - Aguas,Rosario Montano ,Aguas
+SEPF07816A2BC4D,Cisco 3905,3905,CSS_LOCALES_4231765,36602,DP_FCyT,Roxana Guillen Salvador,Roxana Guillen Salvador,Roxana Guillen Salvador
+SEPF07816A2BBB3,Cisco 3905,3905,CSS_LOCALES_4231765,36549,DP_FCyT,Marina Camacho Zurita - Alimentos,Marina Camacho Zurita ,Alimentos
+SEPF07816A2FD69,Cisco 3905,3905,CSS_LOCALES_4231765,36547,DP_FCyT,Mercedes Iriarte Puna - Aguas,Mercedes Iriarte Puna ,Aguas
+SEPF07816A2FDCA,Cisco 3905,3905,CSS_LOCALES_4231765,36474,DP_FCyT,Walter Antonio Urquidi Maldonado - Alimentos,Walter Antonio Urquidi Maldonado ,Alimentos
+SEPF07816A2FE00,Cisco 3905,3905,CSS_LOCALES_4231765,36554,DP_FCyT,Carola Antezana Valera - Biologia,Carola Antezana Valera ,Biologia
+SEPF07816A333F4,Cisco 3905,3905,CSS_LOCALES_4231765,36594,DP_FCyT,Justino Ramos Colque - Decanato,Justino Ramos Colque ,Decanato
+SEPF07816A33593,Cisco 3905,3905,CSS_LOCALES_4231765,36595,DP_FCyT,Brayan Gonzales Morato - Cajas,Brayan Gonzales Morato ,Cajas
+SEPF07816D02A70,Cisco 7821,7821,CSS_LOCALES_4231765,36541,DP_FCyT,Sandra Antezana Phone,Sandra Antezana Phone,Sandra Antezana Phone
+SEPF07816A335F5,Cisco 3905,3905,CSS_LOCALES_4231765,36597,DP_FCyT,Samuel Siles Alvarado - CEIA,Samuel Siles Alvarado ,CEIA
+SEPF07816A33636,Cisco 3905,3905,CSS_LOCALES_4231765,36598,DP_FCyT,Carla Oporto Pereyra - Aguas,Carla Oporto Pereyra ,Aguas
+SEPBCC49397F501,Cisco 7821,7821,CSS_CEL_NAL_4231765,36500,DP_FCyT,Jhonny Garcia Aranibar,Jhonny Garcia Aranibar,Jhonny Garcia Aranibar
+SEPBCC49397F524,Cisco 7821,7821,CSS_CEL_REG_4231765,36313,DP_FCyT,Carla Rocha Sanchez,Carla Rocha Sanchez,Carla Rocha Sanchez
+SEPF07816A2BF70,Cisco 3905,3905,CSS_LOCALES_4231765,36599,DP_FCyT,Jhonny Garcia Aranibar - Estudiantes,Jhonny Garcia Aranibar ,Estudiantes
+SEPBCC49397F4FE,Cisco 7821,7821,,,DP_FCyT,Boris Moreira ,Boris Moreira ,Boris Moreira
+SEPF07816A33411,Cisco 3905,3905,CSS_LOCALES_4231765,36504,DP_FCyT,Jose Luis Lopez,Jose Luis Lopez,Jose Luis Lopez
+SEPF07816A33460,Cisco 3905,3905,CSS_LOCALES_4231765,36327,DP_FCyT,Luis Alberto Coronado,Luis Alberto Coronado,Luis Alberto Coronado
+SEPF07816A32E18,Cisco 3905,3905,CSS_LOCALES_4231765,36330,DP_FCyT,Taller Vidrios - Jose Terrazas,Taller Vidrios ,Jose Terrazas
+SEPF07816A32EA4,Cisco 3905,3905,CSS_LOCALES_4231765,36610,DP_FCyT,Juan Alcon Puña,Juan Alcon Puña,Juan Alcon Puña
+SEPF07816A2FCCA,Cisco 3905,3905,CSS_LOCALES_4231765,36617,DP_FCyT,Vanesa Castro Alba - Alimentos,Vanesa Castro Alba ,Alimentos
+SEPF07816A33330,Cisco 3905,3905,CSS_LOCALES_4231765,36311,DP_FCyT,Sec.Postgrado-Benigna Huayllas,Sec.Postgrado,Benigna Huayllas
+SEPF07816A33083,Cisco 3905,3905,CSS_LOCALES_4231765,36618,DP_FCyT,Maiza Argote Antezana - Posgrado,Maiza Argote Antezana ,Posgrado
+SEPF07816A3337B,Cisco 3905,3905,CSS_LOCALES_4231765,36338,DP_FCyT,Secretaria Instituto de Investigacion,Secretaria Instituto de Investigacion,Secretaria Instituto de Investigacion
+SEPF07816A33139,Cisco 3905,3905,CSS_LOCALES_4231765,36619,DP_FCyT,Mauricio Ledezma Guzmán - CEIA,Mauricio Ledezma Guzmán ,CEIA
+SEPF07816A33394,Cisco 3905,3905,CSS_LOCALES_4231765,36523,DP_FCyT,Aidee Vargas,Aidee Vargas,Aidee Vargas
+SEPF07816A333BE,Cisco 3905,3905,CSS_LOCALES_4231765,36484,DP_FCyT,Director CTA - Ing. Jose Soto,Director CTA ,Ing. Jose Soto
+SEPF07816A3313C,Cisco 3905,3905,CSS_LOCALES_4231765,36620,DP_FCyT,Johnson Luizaga Pozo - CEIA,Johnson Luizaga Pozo ,CEIA
+SEPF07816A2BC03,Cisco 3905,3905,CSS_LOCALES_4231765,36222,DP_FCyT,Ivon Torres Coca,Ivon Torres Coca,Ivon Torres Coca
+SEPF07816A2BC1E,Cisco 3905,3905,CSS_LOCALES_4231765,36410,DP_FCyT,Ana Maria Romero,Ana Maria Romero,Ana Maria Romero
+SEPF07816A335DD,Cisco 3905,3905,CSS_LOCALES_4231765,36596,DP_FCyT,Area Produccion - Planta Piloto - Industrial,Area Produccion - Planta Piloto ,Industrial
+SEPF07816A2BC58,Cisco 3905,3905,CSS_LOCALES_4231765,36321,DP_FCyT,Marcela Guzman,Marcela Guzman,Marcela Guzman
+SEPF07816A2BCA0,Cisco 3905,3905,CSS_LOCALES_4231765,36325,DP_FCyT,Sergio Carballo,Sergio Carballo,Sergio Carballo
+SEPF07816A3333E,Cisco 3905,3905,CSS_INTERNOS,36621,DP_FCyT,Claudia De La Cruz Benitez - ODE,Claudia De La Cruz Benitez ,ODE
+SEPF07816A2BF4E,Cisco 3905,3905,CSS_LOCALES_4231765,36326,DP_FCyT,Fresia Quinteros,Fresia Quinteros,Fresia Quinteros
+SEPF07816A2F704,Cisco 3905,3905,CSS_LOCALES_4231765,36483,DP_FCyT,Luis Aguirre,Luis Aguirre,Luis Aguirre
+SEPF07816D02B6E,Cisco 7821,7821,CSS_LOCALES_4231765,36319,DP_FCyT,Director Carrera Civil - Roberto Mendez Torrico,Director Carrera Civil ,Roberto Mendez Torrico
+SEPF07816A2F7CB,Cisco 3905,3905,CSS_LOCALES_4231765,36334,DP_FCyT,Irma Ferrufino - Secretaria Biodiversidad,Irma Ferrufino ,Secretaria Biodiversidad
+SEPF07816A2F901,Cisco 3905,3905,CSS_LOCALES_4231765,36329,DP_FCyT,Bioprocesos-Jorge Quillaguaman,Bioprocesos,Jorge Quillaguaman
+SEPF07816A33062,Cisco 3905,3905,CSS_LOCALES_4231765,36587,DP_FCyT,Marcos Humerez Ortiz - Biologia,Marcos Humerez Ortiz ,Biologia
+SEPF07816A2FC7B,Cisco 3905,3905,CSS_LOCALES_4231765,36537,DP_FCyT,Alejandra Cecilia Vargas Zapata - IDH,Alejandra Cecilia Vargas Zapata ,IDH
+SEPF07816A33428,Cisco 3905,3905,CSS_LOCALES_4231765,36622,DP_FCyT,PDTF-Ximena Duran,PDTF,Ximena Duran
+SEPBCC49397F93D,Cisco 7821,7821,CSS_LOCALES_4231765,36485,DP_FCyT,Director Quimica - Roberto Soto,Director Quimica ,Roberto Soto
+SEPF07816A21726,Cisco 3905,3905,CSS_LOCALES_4231765,36552,DP_FCyT,Maria Esther Giannini Zallocco - Alimentos,Maria Esther Giannini Zallocco ,Alimentos
+SEPF07816A335D0,Cisco 3905,3905,CSS_LOCALES_4231765,36591,DP_FCyT,AreaProduccion-MiguelGutierrezMagne-Industrial,AreaProduccion-MiguelGutierrezMagne,Industrial
+SEPF07816A21753,Cisco 3905,3905,CSS_LOCALES_4231765,36513,DP_FCyT,Dylian Castellon,Dylian Castellon,Dylian Castellon
+SEPF07816A21836,Cisco 3905,3905,CSS_LOCALES_4231765,36332,DP_FCyT,Roger Jose Artiaga Folres,Roger Jose Artiaga Folres,Roger Jose Artiaga Folres
+SEPF07816A2BBDA,Cisco 3905,3905,CSS_LOCALES_4231765,36593,DP_FCyT,AreaProduccion-ResponsablePlantaPiloto-Industrial,AreaProduccion-ResponsablePlantaPiloto,Industrial
+SEPF07816A334A1,Cisco 3905,3905,CSS_LOCALES_4231765,36524,DP_FCyT,Evelyn Cardozo Rocabado,Evelyn Cardozo Rocabado,Evelyn Cardozo Rocabado
+SEPF07816A2BC7D,Cisco 3905,3905,CSS_LOCALES_4231765,36540,DP_FCyT,Rolando Jaldin Rosales - Direccion,Rolando Jaldin Rosales ,Direccion
+SEPF07816A2BCB7,Cisco 3905,3905,CSS_LOCALES_4231765,36342,DP_FCyT,Sec. MEMI - Margoth Zurita Pereira,Sec. MEMI ,Margoth Zurita Pereira
+SEPF07816A33018,Cisco 3905,3905,CSS_LOCALES_4231765,36585,DP_FCyT,Juan Carlos Terrazas,Juan Carlos Terrazas,Juan Carlos Terrazas
+SEPF07816A2FC15,Cisco 3905,3905,CSS_LOCALES_4231765,36545,DP_FCyT,Vladimir Costas,Vladimir Costas,Vladimir Costas
+SEPF07816A2FC41,Cisco 3905,3905,CSS_LOCALES_4231765,36553,DP_FCyT,Abraham Flores Flores - Alimentos,Abraham Flores Flores ,Alimentos
+SEPF07816A2FE88,Cisco 3905,3905,CSS_LOCALES_4231765,36625,DP_FCyT,Emilia Albarracin Rodriguez - INVENTARIOS,Emilia Albarracin Rodriguez ,INVENTARIOS
+SEPF07816A33110,Cisco 3905,3905,CSS_LOCALES_4231765,36336,DP_FCyT,Nora Medrano,Nora Medrano,Nora Medrano
+SEPF07816A2BC15,Cisco 3905,3905,CSS_LOCALES_4231765,36550,DP_FCyT,Claudia Terrazas Maldonado,Claudia Terrazas Maldonado,Claudia Terrazas Maldonado
+SEPF07816A2BC90,Cisco 3905,3905,CSS_LOCALES_4231765,36337,DP_FCyT,Marcelo Torrejon,Marcelo Torrejon,Marcelo Torrejon
+SEPF07816A333D8,Cisco 3905,3905,CSS_LOCALES_4231765,36590,DP_FCyT,Planta Piloto - Industrial,Planta Piloto ,Industrial
+SEPF07816A2BD6D,Cisco 3905,3905,CSS_LOCALES_4231765,36592,DP_FCyT,Secretaria - Planta Piloto - Industrial,Secretaria - Planta Piloto ,Industrial
+SEPF07816A2FCD4,Cisco 3905,3905,CSS_LOCALES_4231765,36411,DP_FCyT,PESEE - Rustan Roca Subirana,PESEE ,Rustan Roca Subirana
+SEPF07816A338CF,Cisco 3905,3905,CSS_LOCALES_4231765,36586,DP_FCyT,Cynthia Callisaya Choque - Fisica,Cynthia Callisaya Choque ,Fisica
+SEPF07816A335BF,Cisco 3905,3905,CSS_LOCALES_4231765,36626,DP_FCyT,Edgar Orellana Coria - INVENTARIOS,Edgar Orellana Coria ,INVENTARIOS
+SEPF07816A335AD,Cisco 3905,3905,CSS_LOCALES_4231765,36627,DP_FCyT,David Ferrufino Joffre - AGROQUIMICO,David Ferrufino Joffre ,AGROQUIMICO
+SEPBCC49397F4FC,Cisco 7821,7821,CSS_LOCALES_4231765,36328,DP_FCyT,Secretaria Quimica - Maria Elena Flores,Secretaria Quimica ,Maria Elena Flores
+SEPF07816A336BF,Cisco 3905,3905,CSS_LOCALES_4231765,36628,DP_FCyT,Carmelo Morant Antelo - Posgrado,Carmelo Morant Antelo ,Posgrado
+SEPF07816A33717,Cisco 3905,3905,CSS_LOCALES_4231765,36629,DP_FCyT,Auxiliares - Posgrado,Auxiliares ,Posgrado
+SEPF07816A2BECA,Cisco 3905,3905,CSS_LOCALES_4231765,36546,DP_FCyT,Laboratorio CESA,Laboratorio CESA,Laboratorio CESA
+SEPF07816A2FDEF,Cisco 3905,3905,CSS_LOCALES_4231765,36475,DP_FCyT,Maritza del Castillo,Maritza del Castillo,Maritza del Castillo
+SEPF07816A33181,Cisco 3905,3905,CSS_LOCALES_4231765,36340,DP_FCyT,Proyecto CAE,Proyecto CAE,Proyecto CAE
+SEPF07816A3319F,Cisco 3905,3905,CSS_LOCALES_4231765,36542,DP_FCyT,Mirian Vargas,Mirian Vargas,Mirian Vargas
+SEPF07816A3303B,Cisco 3905,3905,CSS_LOCALES_4231765,36583,DP_FCyT,Ruder Medrano Antezana - Alimentos,Ruder Medrano Antezana ,Alimentos
+SEPF07816A333AE,Cisco 3905,3905,CSS_LOCALES_4231765,36401,DP_FCyT,Kardex - Mario La Fuente,Kardex ,Mario La Fuente
+SEPF07816A2BB4B,Cisco 3905,3905,CSS_LOCALES_4231765,36502,DP_FCyT,Jorge Suarez,Jorge Suarez,Jorge Suarez
+SEPF07816A2FB83,Cisco 3905,3905,CSS_CEL_NAL_4231765,36503,DP_FCyT,UTI-FCyT Jhonny Garcia,UTI,FCyT Jhonny Garcia
+SEPF07816A3340A,Cisco 3905,3905,CSS_CEL_NAL_4231765,36501,DP_FCyT,Cristian Lazarte,Cristian Lazarte,Cristian Lazarte
+SEPF07816A3300A,Cisco 3905,3905,CSS_LOCALES_4231765,36632,DP_FCyT,Pablo Prado Velasco - ULRA,Pablo Prado Velasco ,ULRA
+SEPF07816D0A2A7,Cisco 7861,7861,CSS_CEL_REG_4231765,36300,DP_FCyT,Maritza Illanes,Maritza Illanes,Maritza Illanes
+SEP204C9E6CAF75,Cisco 8945,8945,CSS_CEL_NAL_4231765,36301,DP_FCyT,Juan Victor Terrazas Lobo - Decano,Juan Victor Terrazas Lobo ,Decano
+SEPF07816D0A26E,Cisco 7861,7861,CSS_CEL_REG_4231765,36304,DP_FCyT,Leticia Aguilar - Direccion Academica,Leticia Aguilar ,Direccion Academica
+SEPF07816D0021B,Cisco 7821,7821,CSS_CEL_NAL_4231765,36307,DP_FCyT,Irmenia Mamani Contreras,Irmenia Mamani Contreras,Irmenia Mamani Contreras
+SEP204C9E6CAFC3,Cisco 8945,8945,CSS_CEL_NAL_4231765,36303,DP_FCyT,Lucio Alejo Espinoza - Director Academico,Lucio Alejo Espinoza ,Director Academico
+SEPF07816A2BECB,Cisco 3905,3905,CSS_LOCALES_4231765,36350,DP_FCyT,Silvia Flores Alcocer,Silvia Flores Alcocer,Silvia Flores Alcocer
+SEPF07816A2FC5F,Cisco 3905,3905,CSS_LOCALES_4231765,36400,DP_FCyT,Mario La Fuente,Mario La Fuente,Mario La Fuente
+SEPF07816A385CF,Cisco 3905,3905,CSS_LOCALES_4231765,36631,DP_FCyT,Carla Fernandez - ULRA,Carla Fernandez ,ULRA
+SEPBCC493977EBA,Cisco 7821,7821,CSS_LOCALES_4231765,36317,DP_FCyT,Secretaria Civil - Leonor Cuaquira,Secretaria Civil ,Leonor Cuaquira
+SEPF07816D02A7B,Cisco 7821,7821,CSS_LOCALES_4231765,36450,DP_FCyT,Javier Caballero Flores - JefeDeDepartamentoCivil,Javier Caballero Flores ,JefeDeDepartamentoCivil
+SEP204C9E6CAF9B,Cisco 8945,8945,CSS_LOCALES_4231765,36461,DP_FCyT,Director Inf Sis -Henry Villarroel Tapia,Director Inf Sis ,Henry Villarroel Tapia
+SEPF07816A333C3,Cisco 3905,3905,CSS_LOCALES_4231765,36412,DP_FCyT,Maya Fernandez Cordova,Maya Fernandez Cordova,Maya Fernandez Cordova
+SEPBCC49397DCF7,Cisco 7821,7821,CSS_LOCALES_4231765,36320,DP_FCyT,Nathaly Quiroz Reyes,Nathaly Quiroz Reyes,Nathaly Quiroz Reyes
+SEPBCF1F2B4E386,Cisco 7861,7861,CSS_FIJOS_NAL_4231765,36308,DP_FCyT,Informaciones - FCyT,Informaciones ,FCyT
+SEPF07816A37FAE,Cisco 3905,3905,CSS_LOCALES_4231765,36640,DP_FCyT,Luis Fernando Perez - Aguas,Luis Fernando Perez ,Aguas
+SEPF07816A2FE86,Cisco 3905,3905,CSS_LOCALES_4231765,36455,DP_FCyT,Charlotte Gamboa Morales,Charlotte Gamboa Morales,Charlotte Gamboa Morales
+SEPF07816A2FDFF,Cisco 3905,3905,CSS_LOCALES_4231765,36456,DP_FCyT,Jhony Morato,Jhony Morato,Jhony Morato
+SEPF07816A3326D,Cisco 3905,3905,CSS_LOCALES_4231765,36457,DP_FCyT,Alfredo Nuñez Delgadillo,Alfredo Nuñez Delgadillo,Alfredo Nuñez Delgadillo
+SEPF07816A335C3,Cisco 3905,3905,CSS_LOCALES_4231765,36458,DP_FCyT,Abdon Valdir Sandoval Salinas,Abdon Valdir Sandoval Salinas,Abdon Valdir Sandoval Salinas
+SEPF07816A3365D,Cisco 3905,3905,CSS_LOCALES_4231765,36459,DP_FCyT,Milena Garcia,Milena Garcia,Milena Garcia
+SEPF07816A3374B,Cisco 3905,3905,CSS_LOCALES_4231765,36460,DP_FCyT,Ever Marcelo Valdez Garcia,Ever Marcelo Valdez Garcia,Ever Marcelo Valdez Garcia
+SEPF07816A2F7B0,Cisco 3905,3905,CSS_LOCALES_4231765,36476,DP_FCyT,Giovana Cuevas,Giovana Cuevas,Giovana Cuevas
+SEPF07816D02A6E,Cisco 7821,7821,CSS_LOCALES_4231765,36477,DP_FCyT,Direccion Carrera Biologia,Direccion Carrera Biologia,Direccion Carrera Biologia
+SEPF07816D02A68,Cisco 7821,7821,CSS_LOCALES_4231765,36478,DP_FCyT,Jose Carlos Perez Zubieta - Jefe Biologia,Jose Carlos Perez Zubieta ,Jefe Biologia
+SEPF07816A32FFE,Cisco 3905,3905,CSS_LOCALES_4231765,36639,DP_FCyT,Sonia Peredo Perez - Aguas,Sonia Peredo Perez ,Aguas
+SEPF07816D02A5D,Cisco 7821,7821,CSS_LOCALES_4231765,36487,DP_FCyT,Miguel Angel Ordoñez Salvatierra-JefeDepartamento,Miguel Angel Ordoñez Salvatierra,JefeDepartamento
+SEPBCC49397DAD9,Cisco 7821,7821,CSS_LOCALES_4231765,36488,DP_FCyT,Director Fisica,Director Fisica,Director Fisica
+SEPF07816A3864D,Cisco 3905,3905,CSS_LOCALES_4231765,36630,DP_FCyT,Bronson Hinojosa Garcia - Chagas,Bronson Hinojosa Garcia ,Chagas
+SEPF07816A33559,Cisco 3905,3905,CSS_LOCALES_4231765,36638,DP_FCyT,Acreditacion Civil,Acreditacion Civil,Acreditacion Civil
+SEPF07816D0A259,Cisco 7861,7861,CSS_CEL_NAL_4231765,36306,DP_FCyT,Secretaria Sec. Adm. Ivonne Muñoz,Secretaria Sec. Adm. Ivonne Muñoz,Secretaria Sec. Adm. Ivonne Muñoz
+SEPBCC49397F503,Cisco 7821,7821,CSS_LOCALES_4231765,36496,DP_FCyT,Tito A. Lima Vacaflor - Jefe Industrial,Tito A. Lima Vacaflor ,Jefe Industrial
+SEPBCC49397F653,Cisco 7821,7821,CSS_LOCALES_4231765,36318,DP_FCyT,Secretaria Industrias - Karina Abasto Nava,Secretaria Industrias ,Karina Abasto Nava
+SEPBCC49397F5F1,Cisco 7821,7821,CSS_LOCALES_4231765,36497,DP_FCyT,Alfredo Delgadillo Cossio - Director Industrial,Alfredo Delgadillo Cossio ,Director Industrial
+SEPBCC493977F6A,Cisco 7821,7821,CSS_LOCALES_4231765,36498,DP_FCyT,Jefe Departamento Electrica,Jefe Departamento Electrica,Jefe Departamento Electrica
+SEPF07816A21585,Cisco 3905,3905,CSS_TELULAR_NACIONAL,36223,DP_FCyT,Centro de Aguas y Saneamiento Ambiental,Centro de Aguas y Saneamiento Ambiental,Centro de Aguas y Saneamiento Ambiental
+SEPF07816D02A5A,Cisco 7821,7821,CSS_LOCALES_4231765,36331,DP_FCyT,Secretaria Electrica Electronica - Ruth Peredo,Secretaria Electrica Electronica ,Ruth Peredo
+SEPF07816A32DF8,Cisco 3905,3905,CSS_LOCALES_4231765,36633,DP_FCyT,Sergio Balderrama Subieta - CUIE,Sergio Balderrama Subieta ,CUIE
+SEPF07816A2FBE8,Cisco 3905,3905,CSS_LOCALES_4231765,36514,DP_FCyT,Javier Soliz,Javier Soliz,Javier Soliz
+SEPF07816A3328E,Cisco 3905,3905,CSS_LOCALES_4231765,36323,DP_FCyT,Patricia Rodriguez Bilbao,Patricia Rodriguez Bilbao,Patricia Rodriguez Bilbao
+SEPF07816A215B5,Cisco 3905,3905,CSS_LOCALES_4231765,36471,DP_FCyT,Carola Rojas Arnez - Alimentos,Carola Rojas Arnez ,Alimentos
+SEPF07816A33788,Cisco 3905,3905,CSS_LOCALES_4231765,36634,DP_FCyT,Rober Mamani Camacho - CUIE,Rober Mamani Camacho ,CUIE
+SEPF07816A215EA,Cisco 3905,3905,CSS_LOCALES_4231765,36556,DP_FCyT,Wendy Sanzetenea,Wendy Sanzetenea,Wendy Sanzetenea
+SEPF07816A216DF,Cisco 3905,3905,CSS_LOCALES_4231765,36801,DP_FCyT,Tamborada,Tamborada,Tamborada
+SEPF07816A2FD9A,Cisco 3905,3905,CSS_LOCALES_4231765,36559,DP_FCyT,Maritza Arnez,Maritza Arnez,Maritza Arnez
+SEPF07816A33876,Cisco 3905,3905,CSS_LOCALES_4231765,36532,DP_FCyT,Tito Grajeda Fernandez - CUIE,Tito Grajeda Fernandez ,CUIE
+SEPF07816A3356C,Cisco 3905,3905,CSS_LOCALES_4231765,36405,DP_FCyT,Franco Arandia Arzabe - IICYT,Franco Arandia Arzabe ,IICYT
+SEPF07816A215B0,Cisco 3905,3905,CSS_LOCALES_4231765,36600,DP_FCyT,Aso. Docente FCyT,Aso. Docente FCyT,Aso. Docente FCyT
+SEPF07816A215D2,Cisco 3905,3905,CSS_LOCALES_4231765,36605,DP_FCyT,Noemi Velasquez,Noemi Velasquez,Noemi Velasquez
+SEPF07816A2159B,Cisco 3905,3905,CSS_LOCALES_4231765,36606,DP_FCyT,Daniela Estrada Urquieta - Aguas,Daniela Estrada Urquieta ,Aguas
+SEPF07816A2FC07,Cisco 3905,3905,CSS_LOCALES_4231765,36611,DP_FCyT,Marina Calderon Rivera,Marina Calderon Rivera,Marina Calderon Rivera
+SEPF07816A3307B,Cisco 3905,3905,CSS_LOCALES_4231765,36607,DP_FCyT,CASA - Mercedes Alvarez Caero,CASA ,Mercedes Alvarez Caero
+SEPF07816A3322D,Cisco 3905,3905,CSS_LOCALES_4231765,36612,DP_FCyT,Paola Escalera Lakka,Paola Escalera Lakka,Paola Escalera Lakka
+SEPF07816A333F1,Cisco 3905,3905,CSS_LOCALES_4231765,36613,DP_FCyT,Maribel Peredo Villarroel,Maribel Peredo Villarroel,Maribel Peredo Villarroel
+SEPF07816A33391,Cisco 3905,3905,CSS_LOCALES_4231765,36614,DP_FCyT,Omar Dominguez Gonzales - Posgrado,Omar Dominguez Gonzales ,Posgrado
+SEPF07816A2BC2B,Cisco 3905,3905,CSS_LOCALES_4231765,36560,DP_FCyT,Rocio Scarleth Mendez Aguayo,Rocio Scarleth Mendez Aguayo,Rocio Scarleth Mendez Aguayo
+SEPF07816A333F2,Cisco 3905,3905,CSS_LOCALES_4231765,36543,DP_FCyT,Nelson Hinojosa Salazar,Nelson Hinojosa Salazar,Nelson Hinojosa Salazar
+SEPF07816A3858D,Cisco 3905,3905,CSS_LOCALES_4231765,36643,DP_FCyT,Roberto Zegarra Dorado - MEMI,Roberto Zegarra Dorado ,MEMI
+SEPF07816A3318F,Cisco 3905,3905,CSS_LOCALES_4231765,36561,DP_FCyT,Daisy  Antezana Bermudez,Daisy  Antezana Bermudez,Daisy  Antezana Bermudez
+SEPF07816A33488,Cisco 3905,3905,CSS_LOCALES_4231765,36562,DP_FCyT,Ricardo Sahonero Irahola,Ricardo Sahonero Irahola,Ricardo Sahonero Irahola
+SEPF07816A33346,Cisco 3905,3905,CSS_CEL_NAL_4231765,36453,DP_FCyT,Lenny Cabero Hinojosa - CIDI,Lenny Cabero Hinojosa ,CIDI
+SEPF07816A338A7,Cisco 3905,3905,CSS_TELULAR_NACIONAL,36005,DP_FCyT,upsi-pruebas,upsi,pruebas
+SEPF07816A38599,Cisco 3905,3905,CSS_LOCALES_4231765,36636,DP_FCyT,Orlando Mercado  - Departamento - Quimica,Orlando Mercado  - Departamento ,Quimica
+SEPF07816A381E9,Cisco 3905,3905,CSS_LOCALES_4231765,36637,DP_FCyT,Orlando Mercado  - Laboratorio - Quimica,Orlando Mercado  - Laboratorio ,Quimica
+SEPF07816A2FD55,Cisco 3905,3905,CSS_LOCALES_4231765,36322,DP_FCyT,Luis Alberto Coronado - Sala Servidores,Luis Alberto Coronado ,Sala Servidores
+SEPF07816A2FC57,Cisco 3905,3905,CSS_LOCALES_4231765,36646,DP_FCyT,Adriana Vidal Illanes - Secretaria Administrativa,Adriana Vidal Illanes ,Secretaria Administrativa
+SEPF07816A2FBD3,Cisco 3905,3905,CSS_LOCALES_4231765,36645,DP_FCyT,Abel Gonzales Chambi - Secretaria Administrativa,Abel Gonzales Chambi ,Secretaria Administrativa
+SEPF07816A3363C,Cisco 3905,3905,CSS_LOCALES_4231765,36414,DP_FCyT,Magaly Mercado Ustariz - Herbario,Magaly Mercado Ustariz ,Herbario
+SEPF07816A33656,Cisco 3905,3905,CSS_LOCALES_4231765,36415,DP_FCyT,Freddy Navarro Antezana - Biodiversidad,Freddy Navarro Antezana ,Biodiversidad
+SEPF07816A336FC,Cisco 3905,3905,CSS_LOCALES_4231765,36416,DP_FCyT,Susana Arrazola Rivero - Biodiversidad,Susana Arrazola Rivero ,Biodiversidad
+SEPF07816A33875,Cisco 3905,3905,CSS_LOCALES_4231765,36417,DP_FCyT,Jennifer Cahill Mangudo - Biodiversidad,Jennifer Cahill Mangudo ,Biodiversidad
+SEPF07816A2FCCD,Cisco 3905,3905,CSS_LOCALES_4231765,36644,DP_FCyT,Jorge Orellana Araoz - MEMI,Jorge Orellana Araoz ,MEMI
+SEPF07816A38649,Cisco 3905,3905,CSS_LOCALES_4231765,36642,DP_FCyT,Juanito Nogales Coca - Elektro,Juanito Nogales Coca ,Elektro
+SEPF07816A3855B,Cisco 3905,3905,CSS_LOCALES_4231765,36641,DP_FCyT,Dulio Orellana Arispe - Aguas,Dulio Orellana Arispe ,Aguas
+SEPF07816A33865,Cisco 3905,3905,CSS_LOCALES_4231765,36635,DP_FCyT,Luz Maya Revollo Teran - Industrial,Luz Maya Revollo Teran ,Industrial
+SEPF07816A385CC,Cisco 3905,3905,CSS_LOCALES_4231765,36413,DP_FCyT,Porteria Edif. Laboratorios,Porteria Edif. Laboratorios,Porteria Edif. Laboratorios
+InformaCastPort,CTI Port,,CSS_INTERNOS,36900,DP_FCyT,InformaCast Port,InformaCast Port,InformaCast Port
+SEPF07816A3316E,Cisco 3905,3905,CSS_LOCALES_4231765,36520,DP_FCyT,Melina Campero,Melina Campero,Melina Campero
+SEPF07816A219D2,Cisco 3905,3905,CSS_LOCALES_4231765,36601,DP_FCyT,Juan Carlos Soto - Matematicas,Juan Carlos Soto ,Matematicas
+SEPBCC493A4A021,Cisco 3905,3905,CSS_LOCALES_4231765,36604,DP_FCyT,Alvaro Carrasco - Matematicas,Alvaro Carrasco ,Matematicas
+SEPF07816A336D4,Cisco 3905,3905,CSS_FIJOS_NAL_4231765,36526,DP_FCyT,Monica Baptista,Monica Baptista,Monica Baptista
+SEPF07816A2151A,Cisco 3905,3905,CSS_LOCALES_4231765,36536,DP_FCyT,Publicaciones - Edwin Mamani,Publicaciones ,Edwin Mamani
+SEPF07816A338BC,Cisco 3905,3905,CSS_LOCALES_4231765,36418,DP_FCyT,Milton Fernandez Calatayud - Biodiversidad,Milton Fernandez Calatayud ,Biodiversidad
+SEPF07816A21A2C,Cisco 3905,3905,CSS_LOCALES_4231765,36505,DP_FCyT,Aquilino Vidal Ricaldes,Aquilino Vidal Ricaldes,Aquilino Vidal Ricaldes
+SEPF07816A37F26,Cisco 3905,3905,CSS_LOCALES_4231765,36419,DP_FCyT,Edgar Gareca Leon - Biodiversidad,Edgar Gareca Leon ,Biodiversidad
+SEPF07816A3855C,Cisco 3905,3905,CSS_LOCALES_4231765,36420,DP_FCyT,Olga Ruiz Betancourt - Biodiversidad,Olga Ruiz Betancourt ,Biodiversidad
+SEPF07816A386A4,Cisco 3905,3905,CSS_LOCALES_4231765,36421,DP_FCyT,Narda Rojas Chinchilla - Biblioteca,Narda Rojas Chinchilla ,Biblioteca
+SEPF07816A32FF1,Cisco 3905,3905,CSS_LOCALES_4231765,36424,DP_FCyT,Jorge Pinto Pereira - Biblioteca,Jorge Pinto Pereira ,Biblioteca
+SEPF07816A33830,Cisco 3905,3905,CSS_LOCALES_4231765,36425,DP_FCyT,Jorge Sejas Lujan - Biblioteca,Jorge Sejas Lujan ,Biblioteca
+SEPF07816A33832,Cisco 3905,3905,CSS_LOCALES_4231765,36426,DP_FCyT,Judith Paz Coronado - Biblioteca,Judith Paz Coronado ,Biblioteca
+SEPF07816A32F27,Cisco 3905,3905,CSS_LOCALES_4231765,36428,DP_FCyT,Eduardo Omar Abugder - Biblioteca,Eduardo Omar Abugder ,Biblioteca
+SEPF07816A337D0,Cisco 3905,3905,CSS_LOCALES_4231765,36429,DP_FCyT,Lucio Alejo Espinoza - Agroquimico,Lucio Alejo Espinoza ,Agroquimico
+SEPF07816A33892,Cisco 3905,3905,CSS_LOCALES_4231765,36431,DP_FCyT,Jose Luis Balderrama Idina - Agroquimico,Jose Luis Balderrama Idina ,Agroquimico
+SEPF07816A381F3,Cisco 3905,3905,CSS_LOCALES_4231765,36432,DP_FCyT,Marcelo Davila Cabrera - Agroquimico,Marcelo Davila Cabrera ,Agroquimico
+SEPF07816A38559,Cisco 3905,3905,CSS_LOCALES_4231765,36433,DP_FCyT,Jenny Espinoza Alcocer - Agroquimico,Jenny Espinoza Alcocer ,Agroquimico
+SEPF07816A38576,Cisco 3905,3905,CSS_LOCALES_4231765,36434,DP_FCyT,Javier Bernardo Lopez Arze - Agroquimico,Javier Bernardo Lopez Arze ,Agroquimico
+SEPF07816A3864F,Cisco 3905,3905,CSS_LOCALES_4231765,36435,DP_FCyT,Eliana Maldonado Gutierrez - Agroquimico,Eliana Maldonado Gutierrez ,Agroquimico
+SEPF07816A386A7,Cisco 3905,3905,CSS_LOCALES_4231765,36436,DP_FCyT,Sonia Mendieta Brito - Agroquimico,Sonia Mendieta Brito ,Agroquimico
+SEPF07816A21A1C,Cisco 3905,3905,CSS_LOCALES_4231765,36437,DP_FCyT,Doris Poka Diaz - Agroquimico,Doris Poka Diaz ,Agroquimico
+SEPF07816A2F762,Cisco 3905,3905,CSS_LOCALES_4231765,36438,DP_FCyT,Ana Maria Rojas Zambrana - Agroquimico,Ana Maria Rojas Zambrana ,Agroquimico
+SEPF07816A2F861,Cisco 3905,3905,CSS_LOCALES_4231765,36439,DP_FCyT,Gloria Fanny Saavedra Cabrera - Agroquimico,Gloria Fanny Saavedra Cabrera ,Agroquimico
+SEPF07816A2F989,Cisco 3905,3905,CSS_LOCALES_4231765,36440,DP_FCyT,Israel Terrazas Maldonado - Agroquimico,Israel Terrazas Maldonado ,Agroquimico
+SEPF07816A2FA1D,Cisco 3905,3905,CSS_LOCALES_4231765,36441,DP_FCyT,Rene Torrico Mejia - Agroquimico,Rene Torrico Mejia ,Agroquimico
+SEPF07816A2FA89,Cisco 3905,3905,CSS_LOCALES_4231765,36443,DP_FCyT,Raul Agapito Dominguez Chura - Alimentos,Raul Agapito Dominguez Chura ,Alimentos
+SEPF07816A2FAE7,Cisco 3905,3905,CSS_LOCALES_4231765,36445,DP_FCyT,Claudia Ximena Cossio Grageda - Aguas,Claudia Ximena Cossio Grageda ,Aguas
+SEPF07816A2FB8D,Cisco 3905,3905,CSS_LOCALES_4231765,36446,DP_FCyT,Alvaro Rodolfo Mercado Guzman - Aguas,Alvaro Rodolfo Mercado Guzman ,Aguas
+SEPF07816A216D9,Cisco 3905,3905,CSS_LOCALES_4231765,36447,DP_FCyT,Henry Antezana Fernandez - Aguas,Henry Antezana Fernandez ,Aguas
+SEPF07816A2BC51,Cisco 3905,3905,CSS_LOCALES_4231765,36448,DP_FCyT,Guadalupe Jeaneth Verduguez Quiroga - Aguas,Guadalupe Jeaneth Verduguez Quiroga ,Aguas
+SEPF07816A338BA,Cisco 3905,3905,CSS_LOCALES_4231765,36449,DP_FCyT,Mabel Gloria Magarinos Villarroel - IICyT,Mabel Gloria Magarinos Villarroel ,IICyT
+SEPF07816A335C9,Cisco 3905,3905,CSS_LOCALES_4231765,36409,DP_FCyT,Sonia Torrico Vallejos - Agroquimico,Sonia Torrico Vallejos ,Agroquimico
+SEPF07816A2C149,Cisco 3905,3905,CSS_LOCALES_4231765,36408,DP_FCyT,Ingrid Trigo Rocha - Agroquimico,Ingrid Trigo Rocha ,Agroquimico
+SEPBCC49397F838,Cisco 7821,7821,CSS_LOCALES_4231765,36333,DP_FCyT,Ing. Jimmy Villarroel Novillo Jefe Dpto. Inf-Sis,Ing. Jimmy Villarroel Novillo Jefe Dpto. Inf,Sis
+SEPF07816A2F813,Cisco 3905,3905,CSS_LOCALES_4231765,36452,DP_FCyT,Jaime Ayllon Acosta,Jaime Ayllon Acosta,Jaime Ayllon Acosta
+SEPF07816A3334F,Cisco 3905,3905,CSS_LOCALES_4231765,36402,DP_FCyT,Daniel Guzman Duchen  - IICYT,Daniel Guzman Duchen  ,IICYT
+SEPF07816A33384,Cisco 3905,3905,CSS_LOCALES_4231765,36403,DP_FCyT,Ariel Sarmiento Franco - IICYT,Ariel Sarmiento Franco ,IICYT
+SEPF07816A33477,Cisco 3905,3905,CSS_LOCALES_4231765,36404,DP_FCyT,Carlos Gonzalo Acevedo Pena - IICYT,Carlos Gonzalo Acevedo Pena ,IICYT
+SEPF07816A37FB3,Cisco 3905,3905,CSS_CEL_NAL_4231765,36700,DP_FCyT,Examen Ingreso FCyT,Examen Ingreso FCyT,Examen Ingreso FCyT
+SEPF07816A3318A,Cisco 3905,3905,CSS_LOCALES_4231765,36463,DP_FCyT,Centro Investigacion Electronica - ELEKTRO,Centro Investigacion Electronica ,ELEKTRO
+SEPF07816A331F1,Cisco 3905,3905,CSS_LOCALES_4231765,36464,DP_FCyT,Centro Investigacion Electrica - ELEKTRO,Centro Investigacion Electrica ,ELEKTRO
+SEPF07816A32DCC,Cisco 3905,3905,CSS_LOCALES_4231765,36466,DP_FCyT,Oficina de Coordinacion - ELEKTRO,Oficina de Coordinacion ,ELEKTRO
+SEPF07816A32E3E,Cisco 3905,3905,CSS_LOCALES_4231765,36467,DP_FCyT,ELEKTRO-Joaquin Araoz Jaldin,ELEKTRO,Joaquin Araoz Jaldin
+SEPF07816A32E8A,Cisco 3905,3905,CSS_LOCALES_4231765,36468,DP_FCyT,Laboratorios Electrica 1 - ELEKTRO,Laboratorios Electrica 1 ,ELEKTRO
+SEPF07816A385DC,Cisco 3905,3905,CSS_LOCALES_4231765,36470,DP_FCyT,Maria Raquel Antezana Gomez - Alimentos,Maria Raquel Antezana Gomez ,Alimentos
+SEPF07816A21551,Cisco 3905,3905,CSS_LOCALES_4231765,36238,DP_FCyT,Romulo Terceros - Almacenes,Romulo Terceros ,Almacenes
+SEPF07816A3861D,Cisco 3905,3905,CSS_LOCALES_4231765,36551,DP_FCyT,Daysi del Rosario Perez Rea - Alimentos,Daysi del Rosario Perez Rea ,Alimentos
+SEPF07816A38688,Cisco 3905,3905,CSS_LOCALES_4231765,36472,DP_FCyT,Patricia Sandra Lazarte Astulla - Alimentos,Patricia Sandra Lazarte Astulla ,Alimentos
+SEPF07816A334AC,Cisco 3905,3905,CSS_LOCALES_4231765,36482,DP_FCyT,Eduardo Perez Arce - Alimentos,Eduardo Perez Arce ,Alimentos
+SEPF07816A2FB5C,Cisco 3905,3905,CSS_LOCALES_4231765,36533,DP_FCyT,Laboratorio Acustica - Juan Carlos Terrazas-Fisica,Laboratorio Acustica - Juan Carlos Terrazas,Fisica
+SEPF07816A2FD8F,Cisco 3905,3905,CSS_LOCALES_4231765,36535,DP_FCyT,Laboratorio Optica - Oscar Cuellar Olivera,Laboratorio Optica ,Oscar Cuellar Olivera
